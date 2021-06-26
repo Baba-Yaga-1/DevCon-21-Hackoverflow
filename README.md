@@ -1,6 +1,6 @@
 # DevCon-21-Hackoverflow
 
-## Perry Bot
+<h1 align="center"> Perry Bot </h1>
 
 A simple discord bot that I created to cure the boredom and stress among the participants of hackathon.
 
