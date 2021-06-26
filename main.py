@@ -65,4 +65,4 @@ async def on_message(message):
         else:
             await message.channel.send(user)
 
-bot.run('ODU4MjA3MzY1ODk1MDI4Nzc3.YNax5A.uSjfBK73MX5rnRFSian8j3Qpt2Y')
+bot.run('your_token')
