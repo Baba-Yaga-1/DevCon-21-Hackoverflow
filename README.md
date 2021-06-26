@@ -8,7 +8,7 @@ I created this bot under Open Innovation part.
 
 I used the Discord.py documentation as well as few APIs to generate information.
 
-A user can be able to generate jokes, inspirational quotes, fun activities and fake user information.
+A user can be able to generate random jokes and a lot more stuff.
 <br>
 
 ![server](https://user-images.githubusercontent.com/56999749/123509042-ea54e900-d690-11eb-8cf8-6e7c0f783d02.JPG)
