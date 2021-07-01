@@ -1,9 +1,7 @@
 
 <h1 align="center"> Perry Bot </h1>
 
-A simple discord bot that I created to cure the boredom and stress among the participants of hackathon.
-
-I created this bot under Open Innovation part.
+A simple discord bot that I created using Python.
 
 I used the Discord.py documentation as well as few APIs to generate information.
 
