@@ -1,7 +1,7 @@
 
 <h1 align="center"> Perry Bot </h1>
 
-A simple discord bot that I created using Python that can generate jokes, inspirational quotes, 
+A simple discord bot that I created using Python that can generate random jokes, inspirational quotes, fake user information(just for fun) and also some random activiies to play with your teamates.
 
 I used the Discord.py documentation as well as few APIs to generate information.
 
